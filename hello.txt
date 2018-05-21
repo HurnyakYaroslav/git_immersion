@@ -1,5 +1,5 @@
 Hello world!!!
 Це зазвичай є назвою першої програми кожного програміста-новачка.
-
+Autor: Yaroslav Hurnyak (email hurnyakyaroslav@gmail.com)
 Давайте напишемо найпрстішу програму на С++:
 name = ARGV.first || "World"
