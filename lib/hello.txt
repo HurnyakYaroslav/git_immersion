@@ -3,3 +3,4 @@ Hello world!!!
 Autor: Yaroslav Hurnyak (email hurnyakyaroslav@gmail.com)
 Давайте напишемо найпрстішу програму на С++:
 name = ARGV.first || "World"
+Перша зміна програма після створення файлу greeterfile.txt.
